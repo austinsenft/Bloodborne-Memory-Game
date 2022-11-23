@@ -1,4 +1,4 @@
-A Bloodborne Themed Memory Game Using React 
+A Bloodborne Themed Memory Game Using React And Node.js
 
 Match Sets Of Two Until You Can't Match Anymore 
 
